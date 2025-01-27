@@ -55,7 +55,7 @@ El gráfico de barras horizontales muestra la importancia de las característica
     <img src="assets/img/img3.png" alt="Importancia de las características" width="700">
 </p>
 
-En cuanto al desempeño, el modelo explicó aproximadamente el 84.73% de (R2) la variabilidad de la rentabilidad, indicado que tiene un buen desempeño. Por otro lado, en promedio, las predicciones del modelo tienen un error de ±29.62% de la rentabilidad (MSE = 0.087763 equivalente a RMSE = 0.2962). Aunque el R2 es alto, un error promedio (RMSE) de aproximadamente 29.62% puede ser significativo en el contexto de rentabilidad, ya que podría hacer que las predicciones sean imprecisas en escenarios donde se necesitan estimaciones más ajustadas. Por lo tanto, en fúturos proyectos internos de creación de horizontes financieros no es recomedable la utilización de un modelo analítico basado solamente en variables operativas
+En cuanto al desempeño, el modelo explicó aproximadamente el 84.73% de (R2) la variabilidad de la rentabilidad, indicado que tiene un buen desempeño. Por otro lado, en promedio, las predicciones del modelo tienen un error de ±0.2962% de la rentabilidad (MSE = 0.087763 equivalente a RMSE = 0.2962). Aunque el R2 es alto, un error promedio (RMSE) de aproximadamente 29.62% puede ser significativo en el contexto de rentabilidad, ya que podría hacer que las predicciones sean imprecisas en escenarios donde se necesitan estimaciones más ajustadas. Por lo tanto, en fúturos proyectos internos de creación de horizontes financieros no es recomedable la utilización de un modelo analítico basado solamente en variables operativas
 
 
 ## Conclusión
